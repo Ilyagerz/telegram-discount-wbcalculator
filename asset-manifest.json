@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ilyagerz/telegram-discount-wbcalculator/static/css/main.a2c2960d.css",
+    "main.js": "/Ilyagerz/telegram-discount-wbcalculator/static/js/main.02694fa0.js",
+    "index.html": "/Ilyagerz/telegram-discount-wbcalculator/index.html",
+    "main.a2c2960d.css.map": "/Ilyagerz/telegram-discount-wbcalculator/static/css/main.a2c2960d.css.map",
+    "main.02694fa0.js.map": "/Ilyagerz/telegram-discount-wbcalculator/static/js/main.02694fa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c2960d.css",
+    "static/js/main.02694fa0.js"
+  ]
+}
